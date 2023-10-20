@@ -4,5 +4,5 @@ import tabulate
 import sys
 
 
-font = pyfiglet.figlet_format("Password Manager",font = "slant")
+font = pyfiglet.figlet_format("Password Manager",font = "speed")
 print(font)

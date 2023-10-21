@@ -19,6 +19,8 @@ class colors:
 
 font = pyfiglet.figlet_format("Password Manager",font = "small")
 print(font)
+print("                                 Created by "+colors.RED + "Prasad Raju ❤️❤️❤️"+colors.END)
+print()
 def main():
     while True:
         print("list of commands:")

@@ -64,6 +64,5 @@ This is a simple password manager created using Python. It allows users to manag
 - To update a password, enter U and follow the prompts. You will be asked for the website/application name of the password you want to update, and then for the new password.
 
 ## Contributing...
-- If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
-- 
+- If you'd like to contribute to this project, feel free to fork the repository and submit a pull request..
 

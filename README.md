@@ -17,7 +17,7 @@ $ pip install tabulate
 And
 
 ```
-$ pip install figlet
+$ pip install pyfiglet
 ```
 
 ---
